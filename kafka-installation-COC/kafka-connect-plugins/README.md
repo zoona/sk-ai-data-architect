@@ -1,0 +1,1 @@
+kafka-connect에 설치 될 plugin들을 위한 경로
