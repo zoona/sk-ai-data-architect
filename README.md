@@ -8,4 +8,3 @@ https://github.com/bitnami/charts
 
 connect 설정은 아래 링크 참조해서 사용
 
-https://github.com/bitnami/charts/tree/master/bitnami/kafka/#deploying-extra-resources
